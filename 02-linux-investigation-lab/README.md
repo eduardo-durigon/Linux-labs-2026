@@ -14,20 +14,3 @@ I acted as a junior cybersecurity analyst investigating suspicious activity on a
 
 ### Outcome
 This lab helped me reinforce foundational Linux commands while applying them to a more realistic security investigation workflow.
-
-## 📸 Lab Screenshots
-
-### Lab Setup
-![Lab Setup](screenshots/01-lab-setup-directory-structure.png)
-
-### File Creation
-![File Creation](screenshots/02-file-creation-and-organization.png)
-
-### Case Notes
-![Case Notes](screenshots/03-case-notes-and-navigation.png)
-
-### Log Analysis
-![Log Analysis](screenshots/04-log-analysis-and-script-review.png)
-
-### Permissions & Report
-![Permissions](screenshots/05-permissions-and-final-report.png)
